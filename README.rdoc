@@ -1,5 +1,6 @@
 == README
 
+
 Este documento contiene el directorio con el conjunto de archivos realizados en rails.
 
 
@@ -7,3 +8,6 @@ Para visitar la aplicación en linea puede ir al siguiente link:
 
 
 http://enigmatic-refuge-7123.herokuapp.com/
+== [IC-8041][Tarea Programada 1]
+Rodríguez Arce  Juan José        200944003
+González Chacón Juan Carlos   201226896
